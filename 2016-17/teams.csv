@@ -1,0 +1,21 @@
+team_division,code,played,win,current_event_fixture,id,strength,form,strength_overall_away,strength_attack_away,draw,short_name,strength_defence_away,strength_overall_home,unavailable,loss,name,next_event_fixture,link_url,points,strength_defence_home,position,strength_attack_home
+1,3,0,0,"[{u'is_home': True, u'month': 5, u'event_day': 1, u'id': 371, u'day': 21, u'opponent': 6}]",1,4,,1320,1340,0,ARS,1350,1270,False,0,Arsenal,[],,0,1310,0,1280
+1,91,0,0,"[{u'is_home': False, u'month': 5, u'event_day': 1, u'id': 375, u'day': 21, u'opponent': 8}]",2,2,,1050,1080,0,BOU,1140,990,False,0,Bournemouth,[],,0,1060,0,970
+1,90,0,0,"[{u'is_home': True, u'month': 5, u'event_day': 1, u'id': 372, u'day': 21, u'opponent': 20}]",3,2,,1130,1230,0,BUR,1060,950,False,0,Burnley,[],,0,940,0,960
+1,8,0,0,"[{u'is_home': True, u'month': 5, u'event_day': 1, u'id': 373, u'day': 21, u'opponent': 15}]",4,5,,1350,1390,0,CHE,1400,1340,False,0,Chelsea,[],,0,1310,0,1340
+1,31,0,0,"[{u'is_home': False, u'month': 5, u'event_day': 1, u'id': 377, u'day': 21, u'opponent': 11}]",5,2,,1000,1080,0,CRY,1050,1020,False,0,Crystal Palace,[],,0,1090,0,980
+1,11,0,0,"[{u'is_home': False, u'month': 5, u'event_day': 1, u'id': 371, u'day': 21, u'opponent': 1}]",6,4,,1250,1300,0,EVE,1250,1190,False,0,Everton,[],,0,1100,0,1150
+1,88,0,0,"[{u'is_home': True, u'month': 5, u'event_day': 1, u'id': 374, u'day': 21, u'opponent': 17}]",7,2,,1060,970,0,HUL,990,1000,False,0,Hull,[],,0,950,0,940
+1,13,0,0,"[{u'is_home': True, u'month': 5, u'event_day': 1, u'id': 375, u'day': 21, u'opponent': 2}]",8,3,,1120,1160,0,LEI,1110,1090,False,0,Leicester,[],,0,1020,0,1000
+1,14,0,0,"[{u'is_home': True, u'month': 5, u'event_day': 1, u'id': 376, u'day': 21, u'opponent': 12}]",9,4,,1300,1320,0,LIV,1390,1270,False,0,Liverpool,[],,0,1310,0,1220
+1,43,0,0,"[{u'is_home': False, u'month': 5, u'event_day': 1, u'id': 380, u'day': 21, u'opponent': 18}]",10,4,,1310,1320,0,MCI,1350,1310,False,0,Man City,[],,0,1330,0,1230
+1,1,0,0,"[{u'is_home': True, u'month': 5, u'event_day': 1, u'id': 377, u'day': 21, u'opponent': 5}]",11,4,,1290,1400,0,MUN,1310,1280,False,0,Man Utd,[],,0,1280,0,1300
+1,25,0,0,"[{u'is_home': False, u'month': 5, u'event_day': 1, u'id': 376, u'day': 21, u'opponent': 9}]",12,2,,1010,1220,0,MID,990,980,False,0,Middlesbrough,[],,0,950,0,1130
+1,20,0,0,"[{u'is_home': True, u'month': 5, u'event_day': 1, u'id': 378, u'day': 21, u'opponent': 14}]",13,3,,1100,1230,0,SOU,1090,1090,False,0,Southampton,[],,0,1090,0,1190
+1,110,0,0,"[{u'is_home': False, u'month': 5, u'event_day': 1, u'id': 378, u'day': 21, u'opponent': 13}]",14,2,,1070,1140,0,STK,1070,1030,False,0,Stoke,[],,0,990,0,1030
+1,56,0,0,"[{u'is_home': False, u'month': 5, u'event_day': 1, u'id': 373, u'day': 21, u'opponent': 4}]",15,2,,980,980,0,SUN,1020,950,False,0,Sunderland,[],,0,960,0,960
+1,80,0,0,"[{u'is_home': True, u'month': 5, u'event_day': 1, u'id': 379, u'day': 21, u'opponent': 19}]",16,2,,1030,960,0,SWA,1040,1010,False,0,Swansea,[],,0,1000,0,970
+1,6,0,0,"[{u'is_home': False, u'month': 5, u'event_day': 1, u'id': 374, u'day': 21, u'opponent': 7}]",17,5,,1350,1420,0,TOT,1390,1300,False,0,Spurs,[],,0,1320,0,1310
+1,57,0,0,"[{u'is_home': True, u'month': 5, u'event_day': 1, u'id': 380, u'day': 21, u'opponent': 10}]",18,2,,1030,1060,0,WAT,1030,1000,False,0,Watford,[],,0,960,0,1000
+1,35,0,0,"[{u'is_home': False, u'month': 5, u'event_day': 1, u'id': 379, u'day': 21, u'opponent': 16}]",19,2,,1070,1150,0,WBA,1070,1050,False,0,West Brom,[],,0,980,0,1130
+1,21,0,0,"[{u'is_home': False, u'month': 5, u'event_day': 1, u'id': 372, u'day': 21, u'opponent': 3}]",20,2,,1050,1100,0,WHU,1080,1030,False,0,West Ham,[],,0,1110,0,990
